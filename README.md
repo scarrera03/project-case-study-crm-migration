@@ -71,5 +71,5 @@ To migrate the company's existing on-premises CRM system to a cloud-based CRM pl
 
 I'm a Project Manager with experience in digital platforms and technology teams. I created this case study to demonstrate my ability to plan and execute IT transformation projects aligned with business needs.
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/tu-usuario) or view my [portfolio](https://github.com/tu-usuario).
+Let’s connect on [LinkedIn](https://www.linkedin.com/in/silvinacarrerascholz) or view my [portfolio](https://github.com/scarrera03).
 
