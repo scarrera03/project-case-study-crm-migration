@@ -74,6 +74,6 @@ I'm a Project Manager with experience in digital platforms and technology teams.
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/silvinacarrerascholz) or view my [portfolio](https://github.com/scarrera03).
 ### 📄 Download CV
 
-[![Download CV](https://img.shields.io/badge/Descargar%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Silvina_Carrera_CV.pdf)
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Silvina_Carrera_CV.pdf)
 
 
