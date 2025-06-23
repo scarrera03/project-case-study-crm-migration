@@ -1,18 +1,18 @@
-# 📊 Project Case Study: CRM System Migration
+# Project Case Study: CRM System Migration
 
-## 🧩 Overview
+## Overview
 
 This is a fictional case study designed to showcase my project management skills and approach to IT system migrations. The project simulates the full process of migrating a legacy CRM system to a cloud-based solution within a medium-sized company.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 To migrate the company's existing on-premises CRM system to a cloud-based CRM platform (e.g., HubSpot or Salesforce), improving sales team efficiency, data accessibility, and reporting capabilities.
 
 ---
 
-## 🗂 Project Details
+## Project Details
 
 - **Project Duration:** 3 months
 - **Team Size:** 5 people (PM, Developer, QA, Data Analyst, CRM Specialist)
@@ -21,7 +21,7 @@ To migrate the company's existing on-premises CRM system to a cloud-based CRM pl
 
 ---
 
-## 🛠️ Key Deliverables
+## Key Deliverables
 
 - ✅ Project charter and scope document  
 - ✅ Stakeholder and communication plan  
@@ -33,7 +33,7 @@ To migrate the company's existing on-premises CRM system to a cloud-based CRM pl
 
 ---
 
-## 🔄 Timeline (High-Level)
+## Timeline (High-Level)
 
 | Phase                     | Duration       |
 |--------------------------|----------------|
@@ -45,7 +45,7 @@ To migrate the company's existing on-premises CRM system to a cloud-based CRM pl
 
 ---
 
-## 🧠 Project Management Skills Highlighted
+## Project Management Skills Highlighted
 
 - Agile project management (Scrum ceremonies, backlog grooming)
 - Risk management and mitigation strategies
@@ -55,7 +55,7 @@ To migrate the company's existing on-premises CRM system to a cloud-based CRM pl
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `project-charter.pdf`
 - `risk-register.xlsx`
