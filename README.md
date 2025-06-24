@@ -2,22 +2,19 @@
 
 ## Overview
 
-This is a fictional case study designed to showcase my project management skills and approach to IT system migrations. The project simulates the full process of migrating a legacy CRM system to a cloud-based solution within a medium-sized company.
+This is a **fictitious case study** simulating the migration of a CRM system from Zoho to HubSpot for a mid-sized sales company. It was created as part of my Project Management portfolio to demonstrate planning, execution, and retrospective analysis in a real-world SaaS implementation context.
 
 ---
 
-## Project Objective
+## Project Overview
 
-To migrate the company's existing on-premises CRM system to a cloud-based CRM platform (e.g., HubSpot or Salesforce), improving sales team efficiency, data accessibility, and reporting capabilities.
-
----
-
-## Project Details
-
-- **Project Duration:** 3 months
-- **Team Size:** 5 people (PM, Developer, QA, Data Analyst, CRM Specialist)
+- **Client (Fictional):** ClientBridge Corp.
+- **Project Duration:** 3 months (July–September 2025)
+- **Project Goal:** Migrate the CRM system to improve data centralization, automate reporting, and enhance sales team efficiency.
+- **Team Size:** 5 core members (PM, Developer, QA Analyst, Sales Ops, IT Specialist)
 - **Methodology:** Agile (Scrum)
-- **Stakeholders:** Sales Manager, IT Lead, Operations Director
+- **Key Stakeholders:** Sales Manager, IT Lead, Operations Director
+- **Tools Used:** Trello, Google Drive, HubSpot Sandbox
 
 ---
 
@@ -72,8 +69,9 @@ To migrate the company's existing on-premises CRM system to a cloud-based CRM pl
 I'm a Project Manager with experience in digital platforms and technology teams. I created this case study to demonstrate my ability to plan and execute IT transformation projects aligned with business needs.
 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/silvinacarrerascholz) or view my [portfolio](https://github.com/scarrera03).
-### 📄 Download CV
 
+### 📄 Download CV
+You can find my resume attached as 
 [![Download CV](https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Silvina_Carrera_CV.pdf)
 
 
