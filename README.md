@@ -4,6 +4,8 @@
 
 This is a **fictitious case study** simulating the migration of a CRM system from Zoho to HubSpot for a mid-sized sales company. It was created as part of my Project Management portfolio to demonstrate planning, execution, and retrospective analysis in a real-world SaaS implementation context.
 
+As Project Manager, I led both the strategic and tactical aspects of the CRM migration project for ClientBridge Corp. Below is a breakdown of my contributions aligned with key project management practices:
+
 ---
 
 ## Project Overview
