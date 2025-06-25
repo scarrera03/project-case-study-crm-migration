@@ -43,6 +43,46 @@ As Project Manager, I led both the strategic and tactical aspects of the CRM mig
 | Go-live & support        | Week 12        |
 
 ---
+### 🔹 Planning & Initiation
+
+- Defined **project scope**, **success KPIs**, **budget** ($20,000 USD hypothetical), and **resource allocation** (5-person team).
+- Identified early **risks**, dependencies, and key stakeholders.
+- Developed a **preliminary project charter** and aligned it with organizational goals.
+### 🔹 Detailed Project Plan
+
+- Structured a **task-based project plan** with clear deliverables and deadlines.
+- Created **milestones** aligned with project phases: discovery, data migration, training, and go-live.
+- Allocated resources by expertise (Dev, QA, Sales Ops) and estimated efforts per task.
+
+### 🔹 Agile Approach & Backlog Planning
+
+- Designed an **Agile Scrum plan** using Trello (Kanban board structure).
+- Developed a **product backlog** including user stories and prioritization for sprint execution.
+- Simulated sprint planning and created tasks grouped by epics (data migration, training, reporting).
+
+### 🔹 Tools & Documentation
+
+- Utilized **Google Drive** for shared documentation and collaboration.
+- Employed **Trello** to visualize workflow, sprints, and bottlenecks.
+- Delivered documentation:
+  - [`docs/project-charter.md`](docs/project-charter.md)
+  - [`docs/retrospective-summary.md`](docs/retrospective-summary.md)
+
+### 💬 Consultancy & Risk Management
+
+- Conducted a **1-hour simulated stakeholder review session** to assess bottlenecks.
+- Created a risk response plan with proposed mitigations for:
+  - Data inconsistency
+  - User adoption issues
+  - Timeline slippage
+
+## 📈 Outcome (Hypothetical)
+
+- Full CRM migration plan ready with no data loss.
+- 90% user training completed before go-live date.
+- Reporting process automated via HubSpot tools.
+  
+---
 
 ## Project Management Skills Highlighted
 
